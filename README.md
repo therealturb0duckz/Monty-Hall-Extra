@@ -13,15 +13,16 @@ Surprisingly:
 - **Switching** gives a **2/3 chance of winning**.  
 - **Staying** gives only a **1/3 chance of winning**.  
 
----
+--
 
 ## 🔍 Variations Explored  
-By simulating these scenarios, I aim to see how probability behaves in more complex versions of the Monty Hall problem and to provide visualizations that make the outcomes intuitive.
 
+In this project, I plan to observe the problem by experimenting with these variations:
 1. **Adding more doors** – How does the probability of winning change as the number of doors increases?  
 2. **Multiple goats or prizes** – What happens when there are different prize distributions instead of just one car and the rest goats?  
 3. **Host strategies** – How do probabilities shift if the host behaves differently (e.g., randomly opening doors or not always revealing a goat)?  
 
----
+By simulating these scenarios, I aim to see how probability behaves in more complex versions of the Monty Hall problem and to provide visualizations that make the outcomes intuitive.
 
-After finishing the project, I might consider observing some interesting game shows (if the project is done successfully).
+--
+After finishing the project, I might consider observing some interesting game shows. (if the project is done successfully.)
